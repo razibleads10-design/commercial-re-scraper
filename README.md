@@ -33,3 +33,19 @@ No live-data, production-scale, or performance claims are implied
 unless separately demonstrated and verified.
 
 <!-- FINAL PORTFOLIO VERIFICATION END -->
+
+## Extended Automated Test Verification
+
+Additional automated tests were added and executed successfully.
+
+Coverage includes:
+- Invalid property listing handling
+- Relative URL resolution
+- Alternative pagination link handling
+- Maximum page limit
+- Request failure handling
+- Repeated pagination URL protection
+- HTTP request exception handling
+
+All existing and extended tests were executed locally using pytest.
+These tests use controlled sample HTML and mocked requests; they do not claim live website compatibility.

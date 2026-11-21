@@ -1,0 +1,4 @@
+﻿title,price,location,broker,phone,url
+Office Building,"$250,000","New York, NY",John Smith,+1-212-555-0101,http://127.0.0.1:8765/property/101
+Retail Space,"$420,000","Chicago, IL",Sarah Jones,+1-312-555-0102,http://127.0.0.1:8765/property/102
+Warehouse,"$580,000","Dallas, TX",David Brown,+1-214-555-0103,http://127.0.0.1:8765/property/103
